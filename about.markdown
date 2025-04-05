@@ -8,3 +8,11 @@ permalink: /about/
 Paragraph 1
 
 Paragraph 2
+
+## My skills
+
+### Technical Skills
+{% include technicalskills.md %}
+
+### Soft Skills
+{% include softskills.md %}
