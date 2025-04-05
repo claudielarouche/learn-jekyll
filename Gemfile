@@ -10,7 +10,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.4.1"
 # This is the theme
 gem "minimal-mistakes-jekyll"
-gem "jekyll-remote-theme"
+gem "jekyll-remote-theme", "~> 0.5.0"
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
