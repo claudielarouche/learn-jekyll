@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+![Claudie Larouche](/assets/images/Claudie-Larouche.jpg){:.avatar}
+# Hi there! I'm Claudie Larouche
+Check out my [work](/mywork) or my [writing](/mywriting)
