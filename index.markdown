@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-author: Claudie Larouche
 author_profile: true
+author: Claudie Larouche
+
 ---
 
 ![Claudie Larouche](/assets/images/Claudie-Larouche.jpg){: .avatar}
