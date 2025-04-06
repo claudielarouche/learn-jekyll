@@ -30,7 +30,7 @@ url: "https://claudielarouche.github.io" # the base hostname & protocol for your
 #url: "https://claudielarouche.github.io/learn-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  claudielarouche
-search: true
+#search: true
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
